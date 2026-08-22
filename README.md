@@ -12,4 +12,17 @@ An end-to-end Loan Portfolio Analysis project using SQL and Tableau to analyze l
 
 ## 📂 Dataset
 
-**Dataset File:** [`loan-dataset.csv`](dataset/loan-dataset.csv)
+<p align="left">
+  <img src="images/dataset-icon.png" width="90">
+</p>
+
+**File:** [`loan-dataset.csv`](dataset/loan-dataset.csv)
+
+**Dataset Overview**
+
+| Information     | Value          |
+|-----------------|-------         |
+| Records         | **44,672**     |
+| Features        | **14 Columns** |
+| Target Variable | `loan_status`  |
+| Format          | CSV            |
