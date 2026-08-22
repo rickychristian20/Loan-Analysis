@@ -46,7 +46,7 @@ The analysis focuses on understanding loan portfolio performance, customer profi
 
 ## Query 
 
-![Query SQL](sql/EDA-loan.png)
+![Query SQL](sql/EDA-loan.sql)
 
 ## Images
 1. KPI Loan
