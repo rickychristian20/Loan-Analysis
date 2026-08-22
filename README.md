@@ -44,9 +44,16 @@ The analysis focuses on understanding loan portfolio performance, customer profi
 
 ![Dashboard Loan](dashboard/loan-dashboard.png)
 
-## Query 
+🔗 Interactive Dashboard  
+👉 https://public.tableau.com/views/loan_17873894325180/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-![Query SQL](sql/EDA-loan.sql)
+
+
+## 🗄️ SQL Analysis
+
+The SQL script used for data cleaning and exploratory data analysis is available here:
+
+[EDA-loan.sql](sql/EDA-loan.sql)
 
 ## Images
 1. KPI Loan
@@ -89,7 +96,11 @@ The analysis focuses on understanding loan portfolio performance, customer profi
 3. Reduce exposure to high-risk loan purposes, such as Venture loans, and prioritize lending in more stable sectors like Medical and Education to improve overall portfolio quality.
 
 
-Tableau : https://public.tableau.com/shared/3JZ4PNQCC?:display_count=n&:origin=viz_share_link 
+## 👤 Author
+
+Ricky Simatupang
+
+Tableau : https://public.tableau.com/views/loan_17873894325180/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Linked in : https://www.linkedin.com/in/ricky-simatupang/
 
