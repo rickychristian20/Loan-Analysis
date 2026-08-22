@@ -69,3 +69,25 @@ The analysis focuses on understanding loan portfolio performance, customer profi
 
 ![Risk Level](images/risk-level.png)
 
+
+## 💡 Business Insights
+
+1. The loan portfolio is substantial, totaling $427.93M across 44,672 applications. However, the lending strategy appears highly conservative, with a 78% rejection rate compared to only 22% approved applications.
+
+2. The applicant base is primarily composed of young adults aged 20–30 years, with most applicants holding a Bachelor's degree or High School diploma.
+
+3. Applicants with annual income above $50K and home ownership status of OWN experienced the highest rejection rates (84% and 92%, respectively). In contrast, loans for Medical and Home Improvement purposes showed relatively higher approval rates.
+
+4. The portfolio is heavily concentrated in the Medium Risk category, representing 89.04% of all loan applications, indicating that most applicants fall into a moderate credit risk segment.
+
+## 💼 Business Recommendations
+
+1. Reassess underwriting criteria that appear overly restrictive for high-income applicants and customers with OWN home ownership status to avoid rejecting potentially creditworthy borrowers and losing valuable market opportunities.
+  
+2. Continue focusing on the 20–30 age group, which represents the largest applicant segment, while improving behavior-based credit scoring to enhance approval accuracy and risk assessment.
+
+3. Reduce exposure to high-risk loan purposes, such as Venture loans, and prioritize lending in more stable sectors like Medical and Education to improve overall portfolio quality.
+
+
+
+
