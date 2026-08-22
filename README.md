@@ -12,4 +12,4 @@ An end-to-end Loan Portfolio Analysis project using SQL and Tableau to analyze l
 
 ## 📂 Dataset
 
-![Loan Dataset](dataset/loan-dataset.png)
+![Loan Dataset](dataset/loan-dataset.csv.png)
