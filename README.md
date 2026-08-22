@@ -39,6 +39,11 @@ The analysis focuses on understanding loan portfolio performance, customer profi
 | Target Variable | `loan_status`  |
 | Format          | CSV            |
 
+
+## 📊 Dashboard
+
+![Dashboard Loan](dashboard/dashboard loan.png)
+
 ## Images
 1. KPI Loan
 
