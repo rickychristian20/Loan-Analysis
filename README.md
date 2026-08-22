@@ -40,7 +40,7 @@ The analysis focuses on understanding loan portfolio performance, customer profi
 | Format          | CSV            |
 
 ## Images
-1. KPI
+1. KPI Loan
 
 ![KPI Loan](kpi/kpi-loan.png)
 
@@ -48,9 +48,9 @@ The analysis focuses on understanding loan portfolio performance, customer profi
 
 ![Age Group](group-age/grup-age.png)
 
-3. Loan History
+3. History
 
-![Loan History](history/history.png)
+![Loan History](history/histori.png)
 
 4. Credit Score
 
@@ -58,4 +58,5 @@ The analysis focuses on understanding loan portfolio performance, customer profi
 
 5. Risk Level
 
-![Risk Level](risk-level/risk-level.png) 
+![Risk Level](risk-level/risk-level.png)
+
