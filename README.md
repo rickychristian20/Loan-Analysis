@@ -1,5 +1,11 @@
-# Loan-Analysis
-An end-to-end Loan Portfolio Analysis project using SQL and Tableau to analyze loan performance, customer characteristics, approval rates, credit risk, and business recommendations.
+# Loan Portfolio Analysis
+
+An end-to-end Loan Portfolio Analysis project using **SQL and Tableau** to analyze loan performance, customer characteristics, approval decisions, and credit risk.
+
+## 📌 Project Overview
+
+This project analyzes **44,672 loan applications** with a total loan value of **$427.93M**.
+The analysis focuses on understanding loan portfolio performance, customer profiles, approval patterns, and factors associated with credit risk.
 
 
 ## 🎯 BUSINESS QUESTIONS
@@ -9,6 +15,12 @@ An end-to-end Loan Portfolio Analysis project using SQL and Tableau to analyze l
 4. What type of customer has the highest credit risk?
 5. How can the company improve loan approval decisions and reduce credit risk?
 
+## 🛠️ Tools Used
+
+- SQL     – Data cleaning and analysis
+- Tableau – Data visualization and dashboard
+- CSV     – Dataset
+- GitHub  – Project documentation
 
 ## 📂 Dataset
 
@@ -26,3 +38,7 @@ An end-to-end Loan Portfolio Analysis project using SQL and Tableau to analyze l
 | Features        | **14 Columns** |
 | Target Variable | `loan_status`  |
 | Format          | CSV            |
+
+## Images
+
+[`kpi-loan.png`](kpi/kpi-loan.png)
