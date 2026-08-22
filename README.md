@@ -42,7 +42,7 @@ The analysis focuses on understanding loan portfolio performance, customer profi
 
 ## 📊 Dashboard
 
-![Dashboard Loan](dashboard/dashboard loan.png)
+![Dashboard Loan](dashboard/loan-dashboard.png)
 
 ## Query 
 
