@@ -89,5 +89,7 @@ The analysis focuses on understanding loan portfolio performance, customer profi
 3. Reduce exposure to high-risk loan purposes, such as Venture loans, and prioritize lending in more stable sectors like Medical and Education to improve overall portfolio quality.
 
 
+Tableau : https://public.tableau.com/shared/3JZ4PNQCC?:display_count=n&:origin=viz_share_link 
 
+Linked in : https://www.linkedin.com/in/ricky-simatupang/
 
