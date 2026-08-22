@@ -10,6 +10,6 @@ An end-to-end Loan Portfolio Analysis project using SQL and Tableau to analyze l
 5. How can the company improve loan approval decisions and reduce credit risk?
 
 
-## Dataset
+## 📂 Dataset
 
-![loan Dataset](dataset/loan-dataset.csv.png)
+![Loan Dataset](dataset/loan-dataset.png)
